@@ -1,0 +1,4 @@
+config.json
+share_url.txt
+__pycache__/
+*.pyc
